@@ -10,3 +10,4 @@ def change_availability(juice_name,availability):
 print("prieList",priceList.prieList)
 change_availability("Mango Juice",1)
 print("prieList",priceList.prieList)
+print("prieList",priceList.prieList)
